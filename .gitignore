@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # Remain Icon Files
-!Assets/Icons/**
+!VisualIcon/Assets/Icons/**
